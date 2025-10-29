@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Dheeraj's profile!
+  Hi there, I'm Dheeraj Singh Chauhan
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
 </h3>
 
