@@ -9,7 +9,11 @@
  
 </div>
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/dheerajsinghchauhan/">LinkedIn</a> •
+  <a href="https://www.instagram.com/dsc_virus/">Instagram</a> •
+  <a>Location: Nainital/India</a>
+</p>
 
 
 
