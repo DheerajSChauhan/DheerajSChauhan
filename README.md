@@ -12,30 +12,15 @@
 
 ---
 
-<!-- <p align="center">
-  <a href="https://www.linkedin.com/in/dheerajsinghchauhan/">LinkedIn</a> •
-  <a href="https://www.instagram.com/dsc_virus/">Instagram</a> •
-  <a>Location: Nainital/India</a>
-</p> -->
 <p align="center">
   <a href="https://iamdsc.vercel.app">Website</a> •
   <a href="https://www.linkedin.com/in/dheerajsinghchauhan/">LinkedIn</a> •
+  <a href="mailto:dheerajsinghchauhan2004@gmail.com">Gmail</a> •
   <a href="https://www.instagram.com/dsc_virus/">Instagram</a> •
-  <a>Pronouns: he/him</a> •
   <a>Location: Nainital/India</a> •
-  <a>Time Zone: UTC +05:30</a>
 </p>
-<p align="center">
-  Hi, I'm Dheeraj Singh Chauhan! 🤩<br>
-  Feel free to connect!
-</p>
-
 
 ---
-
-<!-- # 💫 About Me:
-Hi, I'm Dheeraj Singh Chauhan! 🤩<br>Pronouns: he/him<br>Location: Nainital/India<br>Time Zone: UTC +05:30<br>Website: iamdsc.vercel.app<br>LinkedIn: dheerajsinghchauhan<br>Instagram: dsc_virus<br>Feel free to connect!<br> -->
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dsc_virus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dheerajsinghchauhan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithdsc@gmail.com) 
