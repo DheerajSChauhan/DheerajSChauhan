@@ -4,6 +4,7 @@
 </h3>
 
 
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+Sans&size=24&duration=2500&color=007bff&center=true&vCenter=true&width=500&lines=Competitive+Programmer;Open+Source+Contributor;Cloud+Enthusiast;Web+Developer;Final+Year+B.Tech+CS;Cricket+Fan;)](https://git.io/typing-svg)
@@ -23,6 +24,9 @@
 ---
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+
+
 <!--
 The profile images are generated at the following paths:
 
@@ -54,3 +58,7 @@ profile-3d-contrib/profile-gitblock.svg
 -->
 ---
 [![](https://visitcount.itsvg.in/api?id=DheerajSChauhan&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/e5b2be6e-7f19-40b2-bfef-ffe20343d55a/thumbnail" >
+</p>
